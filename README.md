@@ -4,7 +4,7 @@
 
 ## Как пользоваться
 1. Клонирование репозитория
-    git clone https://github.com/YoJoonghyuk/laba.git
+    git clone https://github.com/YoJoonghyuk/laba3.git
 
 2. Подготовка перед началом работы
 Необходимо скачать все необходимые библиотеки (psycorg2, duckdb, pandas и другие). Скачайте и внесите файлы nyc_yellow_tiny.csv и nyc_yellow_big.csv в корневую директорию проекта.
