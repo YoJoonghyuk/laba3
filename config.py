@@ -1,0 +1,6 @@
+dbname="postgres"
+user="postgres"
+password="21"
+host="localhost"
+command="postgres"
+file= "nyc_yellow_tiny.csv"
